@@ -1,5 +1,7 @@
-function bellRiddle(){
-  var answer = prompt("Why is an orange like a bell? Because they both must be ...");
-  if (answer == "peeled" || answer == "pealed") alert("Correct!");
-  else alert("Wrong, Batman! Watch the video, and try again.");
+
+function myRiddle(){
+var answer  = prompt("whats one thing you can trow away but always comes back?");
+if(answer == "boomerang") alert("Correct");
+else alert("Wrong, Batman! Watch the VideoColorSpace, and try again.");
+
 }
